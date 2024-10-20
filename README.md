@@ -1,10 +1,8 @@
-# josearmando
-Hi , I'm Jose Armando
 # Hi, I'm Jose Armando Kusnadi 👋
 ---
 Nice to meet you! I'm currently a student at Binus University, majoring in Game Application and Technology 🎮. 
 I’m a passionate game development, specializing in game programming. My journey in game development has been fueled by curiosity and a drive to create innovative solutions through technology and I'm always eager to learn and explore new challenges.</br>
-.
+
 
 
 
