@@ -34,11 +34,13 @@ I’m a passionate game development, specializing in game programming. My journe
   <thead>
     <tr>
       <th width="50%"> Pong </a></th>
+      <th width="50%"><a Run Time </a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/josearmandoo/JoseArmandoKusnadi/blob/main/Pong2d.gif.gif"/></td>
+      <td><img src="https://github.com/josearmandoo/JoseArmandoKusnadi/blob/main/Screenshot%202024-10-21%20095346.png"/></td>
     </tr>
     <tr>
       <td valign="text-top">Pong is usually played by two players. Each player controls a paddle that can move vertically on the left or right side of the screen. However, if there are not two players (want to play alone), there is a 1P feature to fight bots. The aim of this game is to hit the ball using the paddle so that the ball passes through the opponent's paddle and into the opponent's area, which will give points to the player. The ball will move along the screen, bouncing off the top and bottom walls of the screen, as well as from the player's paddle. Every time the ball passes the opponent's paddle, the successful player scores a point. The game ends when one of the players reaches a predetermined score.</td>
