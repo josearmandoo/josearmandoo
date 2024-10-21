@@ -34,7 +34,7 @@ I’m a passionate game development, specializing in game programming. My journe
   <thead>
     <tr>
       <th width="50%"> Pong </a></th>
-      <th width="50%">< Run Time </a></th>
+      <th width="50%">< Run Time /a></th>
     </tr>
   </thead>
   <tbody>
