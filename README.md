@@ -44,6 +44,7 @@ I’m a passionate game development, specializing in game programming. My journe
     </tr>
     <tr>
       <td valign="text-top">Pong is usually played by two players. Each player controls a paddle that can move vertically on the left or right side of the screen. However, if there are not two players (want to play alone), there is a 1P feature to fight bots. The aim of this game is to hit the ball using the paddle so that the ball passes through the opponent's paddle and into the opponent's area, which will give points to the player. The ball will move along the screen, bouncing off the top and bottom walls of the screen, as well as from the player's paddle. Every time the ball passes the opponent's paddle, the successful player scores a point. The game ends when one of the players reaches a predetermined score.</td>
+      <td valign="text-top"> In this game, players have a task or mission to be able to create a new highest score (fastest time). </td>
     </tr>
     <tr>
     </tr>
